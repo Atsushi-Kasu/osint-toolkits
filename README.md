@@ -47,12 +47,12 @@ Made by Atsushi
 ```bash
 # Clone repository
 git clone https://github.com/Atsushi-Kasu/osint-toolkits.git
-cd osint-toolkit
+cd osint-toolkits
 
 # Run installer
 bash scripts/install.sh
 
-# Run toolkit
+# Run toolkits
 python3 osint.py
 
 For Termux
@@ -62,7 +62,7 @@ pkg update && pkg upgrade -y
 
 # Clone and install
 git clone https://github.com/Atsushi-Kasu/osint-toolkits.git
-cd osint-toolkit
+cd osint-toolkits
 bash scripts/install.sh
 python3 osint.py
 
