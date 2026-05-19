@@ -84,7 +84,7 @@ cd osint-toolkit
 bash scripts/install.sh
 python3 osint.py
 
-🛠️ Tools Included
+## 🛠️ Tools Included
 Category 1: Reconnaissance
 - theHarvester - Email/subdomain/IP harvesting
 - Sublist3r - Subdomain enumeration
@@ -116,7 +116,7 @@ Category 5: Advanced
 - Exiftool - Image metadata
 - Maltego - Link analysis
 
-📖 Usage
+## 📖 Usage
 
 # Start the toolkit
 python3 osint.py
@@ -126,7 +126,7 @@ echo "alias osint='python3 $(pwd)/osint.py'" >> ~/.bashrc
 source ~/.bashrc
 osint
 
-📋 Requirements
+## 📋 Requirements
 Python 3.7+
 Git
 Internet connection
