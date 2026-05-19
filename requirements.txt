@@ -1,0 +1,6 @@
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+shodan>=1.28.0
+holehe>=1.66
+phonenumbers>=8.13.0
+instaloader>=4.9.0
